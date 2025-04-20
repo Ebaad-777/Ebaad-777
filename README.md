@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ebaad-777
 - 👀 I’m interested in game-dev and frontend web dev
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on backend development
 - 📫 How to reach me ,via email
 - 😄 Pronouns: ...
